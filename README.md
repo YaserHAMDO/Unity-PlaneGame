@@ -23,17 +23,13 @@ There are two projects available (Project1 and Project2):
 ## Project Files
 
 You can access and download the project files from Google Drive:<br>
-&nbsp;
 [Project Files 1](https://drive.google.com/drive/folders/12vwFsK9O9q5tfdE3vhhK5oMFRkdriWle?usp=sharing)<br>
-&nbsp;
 [Project Files 2](https://drive.google.com/drive/folders/1kZq1UWxTif9hlPra4jb30EIMM8-ACW-U?usp=sharing)
 
 ## APK Download
 
 You can download the APK from Google Drive:<br>
-&nbsp;
 [Plane Game 1](https://drive.google.com/file/d/1AfAOUp-PZqQ2lUqhjyNiC1uMUGr93f2_/view?usp=sharing)<br>
-&nbsp;
 [Plane Game 2](https://drive.google.com/file/d/1H-tZyuGGLSiF7ZNPuqldx-MCQbpUAG3o/view?usp=sharing)
 
 ## Screenshots
@@ -111,8 +107,6 @@ You can download the APK from Google Drive:<br>
 ## Videos
 
 Watch a video demonstration of the app:<br>
-&nbsp;
 [Video1](https://drive.google.com/file/d/1DCeFoxYrslZcOLk59d_VHPZwKCO-rNZd/view?usp=sharing)<br>
-&nbsp;
 [Video2](https://drive.google.com/file/d/1RwoN6dFEuZCSUCRm6lmSvcG4HAPSQnNz/view?usp=sharing)
 
